@@ -1,5 +1,5 @@
 <?php
-// Everything is ok for now
+// Everything is ok for now testing git
 class Fruit {
   // Properties
   public $name;
@@ -37,8 +37,4 @@ class MyFruit extends Fruit {
 $apple = new MyFruit("Apple ok", "Orange", "34");
 $apple->showAll();
 echo MyFruit::MYMESSAGE;
-?>
-
-<?php 
-echo
 ?>
