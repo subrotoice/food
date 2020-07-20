@@ -26,7 +26,7 @@ class MyFruit extends Fruit {
         echo $this->weight.$this->color.$this->name;
     }
 
-    const MYMESSAGE = "Here is ok";
+    const MYMESSAGE = "Here is ok Subroto";
 
     public satic function testStatic() {
         echo " Fine Static.";
