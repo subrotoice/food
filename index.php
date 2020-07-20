@@ -1,5 +1,5 @@
 <?php
-// Everything is ok
+// Everything is ok for now
 class Fruit {
   // Properties
   public $name;
